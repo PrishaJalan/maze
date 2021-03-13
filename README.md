@@ -1,1 +1,2 @@
-# maze
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
